@@ -1,13 +1,6 @@
 ![Hi there, I'm Manoj Kharkar 👋](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        Hi there, I'm Manoj Kharkar 👋
-      </h1>
-    </summary>
-  </ul>
-</div>
+
+# Hi there, I'm Manoj Kharkar 👋
 
 <br><br>Software Developer | Computer Science Student | Open Source Enthusiast<br><br>I'm a passionate Software Developer who enjoys building scalable applications, solving complex problems, and continuously learning new technologies. My interests include Software Development, Machine Learning, Artificial Intelligence, and Full-Stack Web Development.<br><br>💻 Building projects with Python, Flask, Java, and modern web technologies<br>🚀 Contributing to open-source projects and growing through real-world development experience<br>📊 Interested in AI-powered applications, data-driven solutions, and software engineering best practices<br>🌱 Currently enhancing my skills in Data Structures & Algorithms, Machine Learning, and System Design<br>⚡ Strong believer in writing clean code, continuous learning, and consistent improvement<br>🏆 Open Source Contributor | Problem Solver | Lifelong Learner<br><br> "Turning ideas into reliable software, one commit at a time."
 
