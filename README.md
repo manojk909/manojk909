@@ -1,8 +1,7 @@
 ![Hi there, I'm Manoj Kharkar 👋](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 # Hi there, I'm Manoj Kharkar 👋
-
-<br><br>Software Developer | Computer Science Student | Open Source Enthusiast<br><br>I'm a passionate Software Developer who enjoys building scalable applications, solving complex problems, and continuously learning new technologies. My interests include Software Development, Machine Learning, Artificial Intelligence, and Full-Stack Web Development.<br><br>💻 Building projects with Python, Flask, Java, and modern web technologies<br>🚀 Contributing to open-source projects and growing through real-world development experience<br>📊 Interested in AI-powered applications, data-driven solutions, and software engineering best practices<br>🌱 Currently enhancing my skills in Data Structures & Algorithms, Machine Learning, and System Design<br>⚡ Strong believer in writing clean code, continuous learning, and consistent improvement<br>🏆 Open Source Contributor | Problem Solver | Lifelong Learner<br><br> "Turning ideas into reliable software, one commit at a time."
+Software Developer | Computer Science Student | Open Source Enthusiast<br><br>I'm a passionate Software Developer who enjoys building scalable applications, solving complex problems, and continuously learning new technologies. My interests include Software Development, Machine Learning, Artificial Intelligence, and Full-Stack Web Development.<br><br>💻 Building projects with Python, Flask, Java, and modern web technologies<br>🚀 Contributing to open-source projects and growing through real-world development experience<br>📊 Interested in AI-powered applications, data-driven solutions, and software engineering best practices<br>🌱 Currently enhancing my skills in Data Structures & Algorithms, Machine Learning, and System Design<br>⚡ Strong believer in writing clean code, continuous learning, and consistent improvement<br>🏆 Open Source Contributor | Problem Solver | Lifelong Learner<br><br> "Turning ideas into reliable software, one commit at a time."
 
 ## 🌐 Connect with me:
 <p align="left"><a href="https://github.com/manojk909" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/manojk909/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
@@ -13,6 +12,4 @@
 ![](https://github-readme-stats.shion.dev/api?username=manojk909&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojk909&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=manojk909&color=blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
